@@ -9,7 +9,7 @@ This project is a simple yet efficient FAQ Chatbot built using Natural Language 
 
 - 🎓 **Intern:** Bavadharani P  
 - 🎓 **Program:** 3rd Year, B.Tech AI & DS  
-- 💼 **Internship:** CodeAlpha – AI & ML Domain  
+- 💼 **Internship:** CodeAlpha – AI Domain  
 - 📌 **Task 2:** FAQ Chatbot using NLP  
 
 ---
